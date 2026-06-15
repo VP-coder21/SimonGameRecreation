@@ -1,0 +1,19 @@
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\bin\Debug\Final Project Master - Simon.exe.config
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\bin\Debug\Final Project Master - Simon.exe
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\bin\Debug\Final Project Master - Simon.pdb
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\bin\Debug\Final Project Master - Simon.xml
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.vbproj.AssemblyReference.cache
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.vbproj.SuggestedBindingRedirects.cache
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.MainMenu.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.Resources.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.Splash.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.vbproj.GenerateResource.cache
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.vbproj.CoreCompileInputs.cache
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.exe
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.xml
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final Project Master - Simon.pdb
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.Directions.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.Easy.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.HighScore.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.Hard.resources
+U:\CS1\Final Project Master - Simon\Final Project Master - Simon\obj\Debug\Final_Project_Master___Simon.Normal.resources
